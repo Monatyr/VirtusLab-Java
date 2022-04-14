@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.virtuslab.internship.receipt.ReceiptGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-14T20:35:02" hostname="DESKTOP-JJRBIJ5" time="0.028">
+  <properties/>
+  <testcase name="shouldGenerateReceiptForGivenBasket()" classname="com.virtuslab.internship.receipt.ReceiptGeneratorTest" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
